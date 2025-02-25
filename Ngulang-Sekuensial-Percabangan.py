@@ -26,4 +26,4 @@ if bottle_of_coconut_oil > 0:
         print('Ndut buy 1 Kg')
     else:
         print('Ndut bought 5 Ltr')
-print('Ndut go home and give it to mom')
+print('Ndut go home and give the grocery to mom')
